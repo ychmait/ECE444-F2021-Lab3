@@ -1,4 +1,18 @@
 Youssef Chmait- This is a clone of https://github.com/nelaturuk/education_pathways for ECE444 Lab 3
+Activities:
+Activity 1:
+![Activity 1](https://user-images.githubusercontent.com/90428846/135687794-9a75b039-15d3-4890-af5e-d7804a6dbad7.PNG)
+Activity 2: 
+![Activity 2](https://user-images.githubusercontent.com/90428846/135687832-e3cc9757-9bd9-4b57-9dca-b239e0cacd28.PNG)
+![Activity 2-2](https://user-images.githubusercontent.com/90428846/135687863-9d0f23bc-6d7d-4236-9b87-0b0ede49c3a8.PNG)
+Activity 3:
+![Activity 3](https://user-images.githubusercontent.com/90428846/135687875-3265ba49-7b5f-41f6-8e72-f0f61ff457c3.PNG)
+Activity 4:
+![Activity 4](https://user-images.githubusercontent.com/90428846/135687900-1aae262d-0561-4379-bbf9-1cb2ae133a62.PNG)
+![Activity 4-2](https://user-images.githubusercontent.com/90428846/135687909-d61892d4-83e9-41a0-a259-6af2f7aeb498.PNG)
+
+Activity 5: 
+
 
 # CARTE Education Pathways
 
