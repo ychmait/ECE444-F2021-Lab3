@@ -12,8 +12,8 @@ Activity 4:
 ![Activity 4-2](https://user-images.githubusercontent.com/90428846/135687909-d61892d4-83e9-41a0-a259-6af2f7aeb498.PNG)
 
 Activity 5: 
-
-
+Functional: Search bar does not allow certain tasks I wanted to do, such as searching by filter with an empty search bar, or allowing me to search across more than one course-level at a time. I would add these features to improve it.
+Non-functional: I had to try mutliple browsers before I could get the site to display search results, and in the end the only browser that worked was Internet Explorer. I suspect there was a compatibility issue with the plugins/popup settings of my main browsers. To improve the tool, I would investigate the cause of this issue to make the website more accessible to people using different browsers/plugins.
 # CARTE Education Pathways
 
 ## Description
